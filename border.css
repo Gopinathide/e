@@ -1,0 +1,23 @@
+<style>
+        .border{
+            border-style:inset;
+            width: 304px;
+            height: 304px;
+
+        }
+        .border-content
+        {
+            color: lawngreen;
+        }
+        .border:hover .border-content
+        {
+            border-color: lightsalmon;
+            color:red;
+        }
+        .border:hover
+        {
+            border-color: lightsalmon;
+            background-color:darkgray;
+        }
+        
+    </style>

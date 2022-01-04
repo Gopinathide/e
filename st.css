@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+  }
+  body{
+     background-color:rgb(255, 255, 255);
+  }
+  .navbar {
+    padding-bottom: 1rem;
+      background-color: rgb(255, 255, 255);
+  }
+  
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    padding-left: 10px;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+  
+    font-weight: 500;
+    font-size: 1.2rem;
+  }
+  
